@@ -12,6 +12,14 @@
   "dependencies": {
     "mysql2": "^3.6.5"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Surajsinh1622/sunsql.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Surajsinh1622/sunsql/issues"
+  },
+  "homepage": "https://github.com/Surajsinh1622/sunsql#readme",
   "types": "dist/index.d.ts",
   "devDependencies": {
     "@types/node": "^20.11.5"
