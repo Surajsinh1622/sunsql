@@ -12,6 +12,12 @@
   "dependencies": {
     "mysql2": "^3.6.5"
   },
+  "keywords": [
+    "mysql",
+    "nodejs",
+    "node",
+    "database"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Surajsinh1622/sunsql.git"
