@@ -1,0 +1,19 @@
+{
+  "name": "sunsql",
+  "version": "1.0.1",
+  "description": "simple sql",
+  "main": "dist/index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "start": "tsc  && node dist/test.js"
+  },
+  "author": "Surajsinh",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^3.6.5"
+  },
+  "types": "dist/index.d.ts",
+  "devDependencies": {
+    "@types/node": "^20.11.5"
+  }
+}

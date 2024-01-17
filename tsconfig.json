@@ -1,0 +1,19 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "types": ["node"],
+        "target": "es2022",
+        "module": "commonjs",
+        "declaration": true,
+        "outDir": "./dist", // specify the output file for transpiled code
+        "strict": true,
+        "esModuleInterop": true
+    },
+    "include": [
+        "src/index.ts" , "src/test.ts"
+    ],
+    "exclude": [
+        "node_modules",
+        "dist"
+    ]
+}
